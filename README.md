@@ -34,4 +34,4 @@ same page and the afternoons and evenings playing.
 Our goal is for team members to be able to look back and see their impact as we 
 grow and evolve. There’s a lot to take on, but we trust they are up to the challenge. 
 
-If this sounds like the kind of team you might want work with, please check out our open roles and let us know!
+If this sounds like the kind of team you might want work with, please check out our [open roles](https://jobs.lever.co/CopyAI) and let us know!
