@@ -31,6 +31,9 @@ activities. We meet up with the rest of the company regularly. Some of our trips
 have been to Cancun, Miami, and Park City, Utah. We spend our mornings getting everyone on the
 same page and the afternoons and evenings playing.
 
+![Cancun 1](./images/cancun-inside.jpg "Cancun at Night")
+![Cancun 2](./images/cancun-goodbye.jpg "Cancun at Night")
+
 Our goal is for team members to be able to look back and see their impact as we 
 grow and evolve. There’s a lot to take on, but we trust they are up to the challenge. 
 
